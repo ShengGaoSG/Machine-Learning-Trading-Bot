@@ -1,7 +1,7 @@
 # Machine Learning Trading Bot
 
 
-📌 Challenge 14
+Challenge 14
 
 > "In this Challenge, I assumed the role of a financial advisor at one of the top five financial advisory firms in the world. In recent years, the firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
 "
@@ -98,5 +98,5 @@ In this case first model seems like predicting an actual trend is better. In thi
 MIT
 
 
-📔 Contact me: 
-📩 sheng_gao@outlook.com
+Contact me: 
+sheng_gao@outlook.com
