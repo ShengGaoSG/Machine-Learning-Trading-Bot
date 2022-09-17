@@ -79,7 +79,7 @@ git clone https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot.git
 now you can find repo on your desktop
 
 
-* Choose [ machine-learning-trading-bot.ipynb ] file to see the Jupyter Notebook with code.
+* Choose [ machine_learning_trading_bot.ipynb ] file to see the Jupyter Notebook with code.
 
 
 ## Project findings
