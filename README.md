@@ -9,12 +9,12 @@ Challenge 14
 
 ## Table of content
 - [Overview of the project and project goals](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#how-to-install)
-- [Project findings](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#project-findings)
-- [License](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#license)
+- [Software version control](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#software-version-control)
+    - [Libraries](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#libraries)
+    - [Work with GitHub](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#work-with-github)
+    - [How to install](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#how-to-install)
+- [Project findings](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#project-findings)
+- [License](https://github.com/ShengGaoSG/Machine-Learning-Trading-Bot/blob/main/README.md#license)
 
 
 
